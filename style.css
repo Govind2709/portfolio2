@@ -1,0 +1,232 @@
+body{
+  background-color: #800000;
+  font-family: 'Montserrat' , sans-serif;
+  text-align: center;
+}
+hr{
+  background-color: #fff;
+}
+/* navigation bar */
+.navbar{
+
+  margin-bottom: 3rem;
+  padding-left: 0;
+}
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+/* section home */
+#Home{
+  padding-bottom: 7%;
+}
+.container-fluid{
+  padding: 3% 10% 7%;
+}
+ .img{
+   align-items: center;
+   background-image: url('image/lap.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+   width: 1200px;
+   height: 675px;
+   opacity: 0.8;
+   margin: auto;
+   padding: 3% 10% 7%;
+   font-family: 'Yatra One', cursive;
+   color: #fff;
+}
+.home-heading{
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.home-para{
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.btn{
+  margin-top: 3%;
+ font-family: 'Yatra One', cursive;
+}
+
+.jumbotron{
+  margin: auto;
+  background-image: url('image/lap.jpg');
+  width: 90%;
+  height: 100%;
+  background-size: cover;
+  opacity: 0.9;
+  margin: auto;
+  color: #fff;
+  text-align: center;
+  padding: 3% 10% 7%;
+  font-family: 'Yatra One', cursive;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+
+
+ background-repeat: no-repeat;
+}
+.row{
+  height: 350px;
+}
+/* About Me */
+#About-Me
+{
+  padding: 5% 3%;
+  padding-bottom: 7%;
+}
+.bio-heading{
+  margin-top: 100px;
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.bio-heading1
+{  color: #fff;
+  font-size: 3.5rem;
+font-family: 'Yatra One', cursive;
+padding-top: 20px;
+
+
+}
+.bio-para
+{
+  color: #fff;
+    line-height: 2;
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.3rem;
+
+}
+.bio{
+  width: auto;
+  text-align: center;
+  margin: auto;
+}
+
+@media (max-width: 400px){
+  div hr{
+    margin-top: 42rem;
+  }
+}
+/* Skills */
+#Skills
+{
+  padding: 5% 3%;
+  padding-bottom: 7%;
+}
+.skills-heading{
+  color: #fff;
+    font-size: 3.5rem;
+  font-family: 'Yatra One', cursive;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
+.skills-div{
+
+  background-color: #fff;
+  margin: auto;
+  width: 90%;
+  padding: 30px 0 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill1{
+  margin: 0 auto;
+  float: left;
+  margin-right: 30px;
+}
+.skill2{
+    margin: 0 auto;
+    float: right;
+    margin-left: 30px;
+}
+.skill3{
+   margin: 0 auto;
+   float: left;
+   margin-right: 30px;
+   border-radius: 100%;
+}
+.skill4{
+  margin: 0 auto;
+  float: right;
+  margin-left: 30px;
+}
+.skill5{
+  margin: 0 auto;
+  float: left;
+  margin-right: 30px;
+  border-radius: 100%
+
+}
+.skill6{
+  margin: 0 auto;
+  float: right;
+  margin-left: 30px;
+  border-radius: 100%
+
+}
+.skill-para{
+  line-height: 2;
+font-family: 'Montserrat-bold', sans-serif;
+font-size: 1.3rem;
+
+}
+.skill-small{
+  color: #800000;
+  font-size: 2.5rem;
+font-family: 'Yatra One', cursive;
+
+}
+/* contact me */
+.contact-heading{
+  color: #fff;
+    font-size: 3.5rem;
+  font-family: 'Yatra One', cursive;
+  margin-top: 100px;
+
+}
+.contact-heading1{
+  color: #fff;
+    font-size: 3.5rem;
+  font-family: 'Yatra One', cursive;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.contact-para{
+  color: #fff;
+    line-height: 2;
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.3rem;
+
+}
+#Contact-Me{
+    padding-bottom: 7%;
+    padding-top: 2%;
+
+}
+/* fotter */
+.fotter{
+  background-color: #fff;
+  padding
+}
+#Fotter{
+  background-color: #fff;
+
+  padding-bottom: 16px;
+}
+.icon12{
+  margin: 30px 20px;
+  width: 20px;
+
+}
